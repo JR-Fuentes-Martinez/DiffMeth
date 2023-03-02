@@ -1,0 +1,12 @@
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/bin/Debug/net7.0/LibDiffMeth.deps.json
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/bin/Debug/net7.0/LibDiffMeth.dll
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/bin/Debug/net7.0/LibDiffMeth.pdb
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.csproj.AssemblyReference.cache
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.GeneratedMSBuildEditorConfig.editorconfig
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.AssemblyInfoInputs.cache
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.AssemblyInfo.cs
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.csproj.CoreCompileInputs.cache
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.dll
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/refint/LibDiffMeth.dll
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/LibDiffMeth.pdb
+/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/Debug/net7.0/ref/LibDiffMeth.dll

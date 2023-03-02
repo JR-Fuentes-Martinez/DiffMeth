@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jr_fuentes_martinez/Documentos/DiffMeth/DiffMeth/DiffMeth.csproj": {}
+  },
+  "projects": {
+    "/home/jr_fuentes_martinez/Documentos/DiffMeth/DiffMeth/DiffMeth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jr_fuentes_martinez/Documentos/DiffMeth/DiffMeth/DiffMeth.csproj",
+        "projectName": "DiffMeth",
+        "projectPath": "/home/jr_fuentes_martinez/Documentos/DiffMeth/DiffMeth/DiffMeth.csproj",
+        "packagesPath": "/home/jr_fuentes_martinez/.nuget/packages/",
+        "outputPath": "/home/jr_fuentes_martinez/Documentos/DiffMeth/DiffMeth/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jr_fuentes_martinez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/LibDiffMeth.csproj": {
+                "projectPath": "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/LibDiffMeth.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Plotly.NET": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/LibDiffMeth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/LibDiffMeth.csproj",
+        "projectName": "LibDiffMeth",
+        "projectPath": "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/LibDiffMeth.csproj",
+        "packagesPath": "/home/jr_fuentes_martinez/.nuget/packages/",
+        "outputPath": "/home/jr_fuentes_martinez/Documentos/DiffMeth/LibDiffMeth/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jr_fuentes_martinez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Plotly.NET": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "alglib.net": {
+              "target": "Package",
+              "version": "[3.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
