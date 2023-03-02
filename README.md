@@ -4,5 +4,6 @@ Merits:
 alglib.net   
 Plotly.Net   
 SdK.DotNet-7.0   
+Visual Code   
    
 ![test](/images/test.png)
