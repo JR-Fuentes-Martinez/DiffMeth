@@ -1,9 +1,13 @@
 # DiffMeth
-Método diferencial de recuperacion de funciones tabulares mediante fitting de spiline cúbica.   
+Método diferencial de recuperacion de funciones tabulares mediante fitting de spline cúbica.   
 Merits:   
 alglib.net   
 Plotly.Net   
-SdK.DotNet-7.0   
+Sdk.DotNet-7.0   
 Visual Code   
    
-![test](/images/newplot.png)
+Para Multiplo = 10   
+![test](/images/newplot.png)   
+   
+Para Multiplo = 1   
+![test](/images/newplot2.png)   

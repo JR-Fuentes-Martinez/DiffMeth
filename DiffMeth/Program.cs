@@ -11,7 +11,7 @@ for (int i = 0; i < 100; i++)
 }
 
 Diferentiator Diff = new Diferentiator(){
-    Multiplo = 10,
+    Multiplo = 1,
     ys = ys,
     Penalizada = false,
     FactorPenalty = +3.0
