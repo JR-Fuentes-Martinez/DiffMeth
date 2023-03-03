@@ -9,3 +9,7 @@ Visual Code
 Para Multiplo = 1   
 ![test](/images/newplot2.png)  
  
+Función senoidal   
+![test2](/images/newplot2.png)  
+
+ 
