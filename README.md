@@ -7,7 +7,7 @@ Sdk.DotNet-7.0
 Visual Code      
    
 Para Multiplo = 1   
-![test](/images/newplot2.png)  
+![test](/images/newplot.png)  
  
 Función senoidal   
 ![test2](/images/newplot2.png)  
