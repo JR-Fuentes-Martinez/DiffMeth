@@ -6,10 +6,11 @@ Plotly.Net
 Sdk.DotNet-7.0   
 Visual Code      
    
-Note: Impossible to resolve functions like a^x .   
+Note: Impossible to resolve functions like e^x   
+![test3](/images/newplot3.png)   
    
-Para Multiplo = 1   
+Parábola con Multiplo = 1   
 ![test](/images/newplot.png)  
- 
+  
 Función senoidal   
 ![test2](/images/newplot2.png)  
