@@ -6,7 +6,7 @@ Plotly.Net
 Sdk.DotNet-7.0   
 Visual Code      
    
-Note: Impossible to resolve functions like a^x letting a = 1 .. infinite
+Note: Impossible to resolve functions like  a^x  being  a = 1 .. infinite
 ![test3](/images/newplot3.png)   
    
 Parábola con Multiplo = 1   
