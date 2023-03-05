@@ -6,7 +6,8 @@ Plotly.Net
 Sdk.DotNet-7.0   
 Visual Code      
    
-___Impotant note: Impossible to resolve functions like  a^x  being  a = 1 .. infinite___ (Help needed)
+___Impotant note: Impossible to resolve functions like  a^x  being  a = 0 .. infinite___ (Help needed)  
+(For a < 1 there is an inversion of sign of the derivative).   
 ![test3](/images/newplot3.png)   
    
 Parábola con Multiplo = 1   
