@@ -31,7 +31,7 @@ public class Diferentiator
 
             for (int i = 0; i < ys.Length; i++)
             {
-                xs[i] = i + 1;
+                xs[i] = i;
             }
             for (int i = 0; i < xs2.Length; i++)
             {
