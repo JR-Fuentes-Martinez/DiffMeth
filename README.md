@@ -12,5 +12,5 @@ ___Impotant note: Impossible to resolve functions like  a^x  being  a = 1 .. inf
 Parábola con Multiplo = 1   
 ![test](/images/newplot.png)  
   
-Función senoidal   
+Función senoidal con Multiplo = 1 
 ![test2](/images/newplot2.png)  
